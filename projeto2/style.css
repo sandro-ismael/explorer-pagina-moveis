@@ -1,5 +1,5 @@
 body {
-    font-family: 'Opens Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     text-align: center;
     margin: 0;
 }
@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 49px;
     line-height: 56px;
     font-weight: normal;
@@ -30,7 +30,7 @@ span, a {
     color: #FF9900;
 }
 
-p{
+p, #footer{
     color: #7d7987;
     font-size: 14px;
     line-height: 28px;
@@ -38,4 +38,18 @@ p{
 
 #footer a + a{
     margin-left: 28px;
+}
+
+#line {
+    width: 568px;
+    height: 0;
+    margin: 0 auto 8px;
+    border: 1px solid #eceff2;
+    
+}
+
+#balls {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
 }
