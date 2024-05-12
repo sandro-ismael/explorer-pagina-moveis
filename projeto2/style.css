@@ -1,5 +1,7 @@
 body {
     font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    line-height: 28px;
     text-align: center;
     margin: 0;
 }
@@ -24,6 +26,7 @@ h1 {
 
 h1 span {
     font-weight: bold;
+    margin-bottom: 32px;
 }
 
 span, a {
@@ -34,9 +37,10 @@ p, #footer{
     color: #7d7987;
     font-size: 14px;
     line-height: 28px;
+    margin-bottom: 72px;
 }
 
-#footer a + a{
+#footer a + a {
     margin-left: 28px;
 }
 
@@ -52,4 +56,5 @@ p, #footer{
     position: fixed;
     right: 0px;
     bottom: 0px;
+    margin: 0;
 }
