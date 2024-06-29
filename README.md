@@ -12,4 +12,4 @@ Para o desenvolvimento desta aplicação foram utilizadas as tecnologias:
 
   ### *Layout* do site
   
-  <img src="image/Screenshot 2024-06-29 12.45.32.png">
+  <img src="projeto2/image/Screenshot 2024-06-29 12.45.32.png">
